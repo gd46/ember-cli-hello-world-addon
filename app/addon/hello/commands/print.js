@@ -5,7 +5,7 @@ module.exports = {
   name: 'print',
   description: 'print hello to console',
 
-  run: function () {
+  run: function (commandOptions, rawArgs) {
   	console.log('hello');
   }
 };

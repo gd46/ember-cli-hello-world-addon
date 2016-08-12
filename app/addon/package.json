@@ -1,0 +1,9 @@
+{
+  "name": "hello",
+  "version": "0.0.0",
+  "description": "hello world addon",
+  "license": "MIT",
+  "keywords": [
+    "ember-addon"
+  ]
+}

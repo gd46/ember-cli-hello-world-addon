@@ -2,6 +2,7 @@
   "name": "hello",
   "version": "0.0.0",
   "description": "The default blueprint for ember-cli addons.",
+  "main": "app/addon/hello/index.js",
   "directories": {
     "doc": "doc",
     "test": "tests"
